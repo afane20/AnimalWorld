@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 6fcb6c5aed9bf405aa817f1fe1c3a65a
+timeCreated: 1506417064
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Splatz (BRK)
+  fontNames:
+  - Splatz (BRK)
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

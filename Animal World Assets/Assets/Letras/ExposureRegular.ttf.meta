@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 9a610c64f84e54a80835eb53768d5b1e
+timeCreated: 1506417058
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Exposure
+  fontNames:
+  - Exposure
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: d8794a08b920940c89afd311062e8f6c
+timeCreated: 1506418712
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: An ode to noone
+  fontNames:
+  - An ode to noone
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

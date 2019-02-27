@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: f4e5235a34123489fb469416cec4f9fd
+timeCreated: 1508800281
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Gretoon
+  fontNames:
+  - Gretoon
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

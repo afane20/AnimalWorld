@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 925b6078b1b0d499a8f4bddbd66e96ea
+timeCreated: 1506418228
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Candles
+  fontNames:
+  - Candles
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

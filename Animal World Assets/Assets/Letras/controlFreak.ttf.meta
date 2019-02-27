@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: a81aa11aefe9a4972981f4a2002bfa79
+timeCreated: 1506418176
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Control Freak Offset
+  fontNames:
+  - Control Freak Offset
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
